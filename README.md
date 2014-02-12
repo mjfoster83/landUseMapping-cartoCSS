@@ -7,7 +7,7 @@ Style file containing color palette for use with land use mapping. Based on esta
 
 Enjoy, or fork and add more colors!
 
-Contact -
+Contact Information -
 Mike Foster (@mjfoster83)
 
 See live demo here:
